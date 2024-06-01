@@ -13,11 +13,6 @@ import javax.swing.plaf.FontUIResource;
 
 /**
  * The user descriptions can be changed using Edit profile.
- *
- * <p>Team 20-1 Project 5 -- CS18000 -- Fall 2020</p>
- *
- * @author Group 20-1
- * @version December 6, 2020
  */
 
 public class Homepage extends JFrame implements ActionListener {
