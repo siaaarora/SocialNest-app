@@ -10,11 +10,6 @@ import java.util.List;
  * This class handles all the operations for a single client thread.
  * It reads in the command passed from the client and invokes the specific method
  * to perform the desired functionality.
- *
- * <p>Team 20-1 Project 5 -- CS18000 -- Fall 2020</p>
- *
- * @author Group 20-1
- * @version December 6, 2020
  */
 
 public class ServerThread extends Thread {
