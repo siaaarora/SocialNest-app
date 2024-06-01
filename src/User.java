@@ -4,11 +4,6 @@ import java.util.ArrayList;
  * This class stores the user details including first name,
  * last name, username, password, email, contact info,
  * hobbies and interests, about.
- *
- * <p>Team 20-1 Project 5 -- CS18000 -- Fall 2020</p>
- *
- * @author Group 20-1
- * @version December 6, 2020
  */
 public class User {
     private String firstName;
