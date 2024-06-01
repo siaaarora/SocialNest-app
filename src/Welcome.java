@@ -9,13 +9,8 @@ import java.io.IOException;
 /**
  * Welcome
  * <p>
- * Greets the user with “Welcome to FriendZone”.
+ * Greets the user with “Welcome to SocialNest”.
  * Allows the user to select one of three options shown using JButtons CreateAccount, Login, and Exit.
- *
- * <p>Team 20-1 Project 5 -- CS18000 -- Fall 2020</p>
- *
- * @author Group 20-1
- * @version December 6, 2020
  */
 
 class Welcome extends JFrame implements ActionListener {
