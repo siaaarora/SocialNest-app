@@ -5,11 +5,7 @@ import java.awt.*;
  * ThankYou
  *
  * Thanks the user with a message “Thank You for using FriendZone”. Shows that the program has come to an end.
- *
- * <p>Team 20-1 Project 5 -- CS18000 -- Fall 2020</p>
- *
- * @author Group 20-1
- * @version December 6, 2020
+
  */
 
 public class ThankYou {
