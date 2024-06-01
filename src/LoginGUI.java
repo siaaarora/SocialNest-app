@@ -19,12 +19,6 @@ import java.net.Socket;
  * The show password checkbox allows user to hid (replace with “*”) or show their password.
  * The login button shows a JOptionPane success message if the login is success with valid credentials
  * or an error message if the required fields are invalid or missing.
- *
- * <p>Team 20-1 Project 5 -- CS18000 -- Fall 2020</p>
- *
- * @author Group 20-1
- * @version December 6, 2020
- *
  */
 class LoginGUI extends JFrame implements ActionListener {
     private final Container container = getContentPane();
