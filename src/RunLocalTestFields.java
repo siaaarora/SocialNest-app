@@ -16,11 +16,6 @@ import java.util.List;
 
 /**
  * A framework to run public test cases.
- *
- * <p>Purdue University -- CS18000 -- Project 5 -- Fall 2020</p>
- *
- * @author 20 -1 Team
- * @version December 6, 2020
  */
 
 public class RunLocalTestFields {
