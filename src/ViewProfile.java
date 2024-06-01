@@ -15,11 +15,6 @@ import java.net.Socket;
  * Called from find friends when the view profile button is selected.
  * The first and last names are displayed in bold on top.
  * This includes all the user fields username, email, contact info, hobbies, and about in the same order.
- *
- * <p>Team 20-1 Project 5 -- CS18000 -- Fall 2020</p>
- *
- * @author Group 20-1
- * @version December 6, 2020
  */
 
 public class ViewProfile extends JFrame {
